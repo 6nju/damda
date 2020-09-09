@@ -1,0 +1,5 @@
+XSym
+0064
+f4475470486fb488f56a755c66543589
+../../../AppAuth/Source/AppAuthCore/OIDAuthStateChangeDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

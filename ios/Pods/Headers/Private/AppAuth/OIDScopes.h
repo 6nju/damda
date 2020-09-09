@@ -1,0 +1,5 @@
+XSym
+0047
+af319c7c1d0664f434510cf518cd96ed
+../../../AppAuth/Source/AppAuthCore/OIDScopes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

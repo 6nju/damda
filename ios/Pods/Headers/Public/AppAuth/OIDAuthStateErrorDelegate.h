@@ -1,0 +1,5 @@
+XSym
+0063
+898fccf3cc4d2012976060fba98177f1
+../../../AppAuth/Source/AppAuthCore/OIDAuthStateErrorDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

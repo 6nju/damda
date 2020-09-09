@@ -1,0 +1,5 @@
+XSym
+0066
+378e71b93797d658814b4cf2e761d464
+../../../AppAuth/Source/AppAuth/iOS/OIDExternalUserAgentCatalyst.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
